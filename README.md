@@ -47,7 +47,7 @@
 <hr>
 
 <p align=center>
-  <a href="https://github.com/AR0106/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AR0106&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/AR0106/github-readme-stats">
