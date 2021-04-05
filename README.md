@@ -51,7 +51,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AR0106&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/AR0106/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR0106&hide=c%23,GLSL,powershell&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR0106&hide=GLSL,powershell&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
 
